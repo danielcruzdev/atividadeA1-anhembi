@@ -1,0 +1,13 @@
+/home/daniel/Documentos/Programacao/AtividadeA1/bin/Debug/netcoreapp3.1/AtividadeA1
+/home/daniel/Documentos/Programacao/AtividadeA1/bin/Debug/netcoreapp3.1/AtividadeA1.deps.json
+/home/daniel/Documentos/Programacao/AtividadeA1/bin/Debug/netcoreapp3.1/AtividadeA1.runtimeconfig.json
+/home/daniel/Documentos/Programacao/AtividadeA1/bin/Debug/netcoreapp3.1/AtividadeA1.runtimeconfig.dev.json
+/home/daniel/Documentos/Programacao/AtividadeA1/bin/Debug/netcoreapp3.1/AtividadeA1.dll
+/home/daniel/Documentos/Programacao/AtividadeA1/bin/Debug/netcoreapp3.1/AtividadeA1.pdb
+/home/daniel/Documentos/Programacao/AtividadeA1/obj/Debug/netcoreapp3.1/AtividadeA1.csprojAssemblyReference.cache
+/home/daniel/Documentos/Programacao/AtividadeA1/obj/Debug/netcoreapp3.1/AtividadeA1.AssemblyInfoInputs.cache
+/home/daniel/Documentos/Programacao/AtividadeA1/obj/Debug/netcoreapp3.1/AtividadeA1.AssemblyInfo.cs
+/home/daniel/Documentos/Programacao/AtividadeA1/obj/Debug/netcoreapp3.1/AtividadeA1.csproj.CoreCompileInputs.cache
+/home/daniel/Documentos/Programacao/AtividadeA1/obj/Debug/netcoreapp3.1/AtividadeA1.dll
+/home/daniel/Documentos/Programacao/AtividadeA1/obj/Debug/netcoreapp3.1/AtividadeA1.pdb
+/home/daniel/Documentos/Programacao/AtividadeA1/obj/Debug/netcoreapp3.1/AtividadeA1.genruntimeconfig.cache
